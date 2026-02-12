@@ -18,7 +18,7 @@ class Teacher implements Resume {
     public void displayInfo() {
         System.out.println("Name: " + name);
         System.out.println("Qualification: " + subject);
-        System.out.println("Experience: " + experienceYears);
+System.out.println("Experience: " + experienceYears + " years");
     }
 
 }
